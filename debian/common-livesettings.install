@@ -1,0 +1,6 @@
+sbin/*              sbin/
+livesettings        usr/bin/
+user-home-settings  usr/share/common-livesettings
+all-users-settings  usr/share/common-livesettings
+common-cheatcodes   usr/share/common-livesettings
+live/etc/*          etc/
